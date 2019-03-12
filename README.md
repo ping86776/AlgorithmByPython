@@ -1,2 +1,2 @@
 # AlgorithmByPython
-Sorting algorithms implemented by python
+algorithms implemented by python
