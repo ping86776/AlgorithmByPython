@@ -21,7 +21,7 @@ print(date_json)
 print("*" * 100)
 # 遍历json文件所有的key对应的value
 # 替换的数字
-data = [1,2,3,4,5]
+data = [1, 2, 3, 4, 5]
 
 
 def json_txt(dic_json):
